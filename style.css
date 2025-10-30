@@ -43,9 +43,10 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
   /*border: 1px solid red; 
   não precisa colocar mas se quiser pra ter uma direção ta aí*/
+  max-width: 588px;
   margin: 56px auto 0px;
   padding: 0 24px;
 }
